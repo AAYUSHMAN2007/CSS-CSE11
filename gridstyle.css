@@ -12,9 +12,12 @@
     justify-items:center;
     align-items:center;
     place-items: center;
-    jusitfy-content:   ;
+    justify-content: space-around;
+    align-content:center;
+    
+}
 .item{
-    height :160px;
+    height :100px;
     width:100px;
     background-color: brown;
      text-align: center;
